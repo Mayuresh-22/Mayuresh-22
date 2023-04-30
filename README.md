@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 <h1 align="center">Hi 👋, I'm Mayuresh Choudhary</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
@@ -21,6 +23,3 @@
 <h3>Holopin board:</h3>
 
 [![@mayuresh22's Holopin board](https://holopin.me/mayuresh22)](https://holopin.io/@mayuresh22)
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mayuresh-22&theme=github-dark-blue&border_radius=5.5)](https://git.io/streak-stats)
