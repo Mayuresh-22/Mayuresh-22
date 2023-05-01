@@ -1,4 +1,4 @@
-! [Header](https://github.com/Mayuresh-22/Mayuresh-22/blob/main/github-header-image.png)
+ ![Header](https://github.com/Mayuresh-22/Mayuresh-22/blob/main/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Mayuresh Choudhary</h1>
 <h3 align="center">A passionate programmer from India</h3>
