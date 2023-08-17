@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m **@Mayuresh-22**
 
-- 🔭 I’m currently working on [Text-based Adventure game in java](https://github.com/Mayuresh-22/Text-Based-Adventure-Game)
+- 🔭 I’m currently working on [PictoPair - Memory Game](https://github.com/Mayuresh-22/PictoPair-Memory-Game)
 
 - 🌱 I’m currently learning **learning different programming languages and AI/ML**
 
