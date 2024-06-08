@@ -8,9 +8,9 @@
 - 🔭 I’m currently working on **developing a new Programming Language**
 - 🌱 I’m currently learning **how Interpreter works**
 - 💬 Ask me about **Python, Web-development, and ML**
-- 📫 How to reach me [Email at](mailto:mayureshchoudhary22@gmail.com)
+- 📫 How to reach me [Email @ mayureshchoudhary22@gmail.com](mailto:mayureshchoudhary22@gmail.com)
 - 👨‍💻 All of my projects are available at [Repository Section](https://github.com/Mayuresh-22?tab=repositories)
-- 📄 Know about my experiences, [Resume here](https://drive.google.com/file/d/1-K2PT-GvtAZhV3hq423jB0Fiz69qqPVC/view?usp=sharing)
+- 📄 Know about my experiences, [Resume here](https://drive.google.com/file/d/1AJlhH1GatvPUrPK2zEADnis4ZibG7ame/view?usp=sharing)
 - ⚡ Fun fact **I am learning to make machines learn on their own 😅**
 
 <div> <a href="https://www.linkedin.com/in/mayureshchoudhary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
