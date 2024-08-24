@@ -13,12 +13,15 @@
 - 📄 Know about my experiences, [Resume here](https://drive.google.com/file/d/1AJlhH1GatvPUrPK2zEADnis4ZibG7ame/view?usp=sharing)
 - ⚡ Fun fact **I am learning to make machines learn on their own 😅**
 
-<div> <a href="https://www.linkedin.com/in/mayureshchoudhary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+<a href="https://x.com/mayuresh_empire" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mayureshchoudhary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Mayuresh-22" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/mayuresh_empire" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:mayureshchoudhary22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://x.com/mayuresh_empire" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="mayuresh_empire" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayureshchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mayureshchoudhary" height="30" width="40" /></a><a href="https://www.hackerrank.com/mayureshchoudha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="mayureshchoudha2" height="30" width="40" /></a><a href="https://stackoverflow.com/users/20086974" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="20086974" height="30" width="40" /></a><a href="https://kaggle.com/mayureshchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="mayureshchoudhary" height="30" width="40" /></a><a href="https://instagram.com/mayuresh_empire" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="mayuresh_empire" height="30" width="40" /></a><a href="https://dev.to/mayuresh22" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="mayuresh22" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
