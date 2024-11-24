@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mayuresh-22&theme=default" alt="Mayuresh-22" /></a> </p>
 
-- 🔭 I’m currently working on **developing a new Programming Language**
-- 🌱 I’m currently learning **how Interpreter works**
+- 🔭 I’m currently working on **AI SaaS AskYourVideo**
+- 🌱 I’m currently learning **backend development with DevOps**
 - 💬 Ask me about **Python, Web-development, and ML**
 - 📫 How to reach me [Email @ mayureshchoudhary22@gmail.com](mailto:mayureshchoudhary22@gmail.com)
 - 👨‍💻 All of my projects are available at [Repository Section](https://github.com/Mayuresh-22?tab=repositories)
