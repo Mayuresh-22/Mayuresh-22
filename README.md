@@ -10,7 +10,7 @@
 - 💬 Ask me about **Python, Web-development, and ML**
 - 📫 How to reach me? email @ [mayureshchoudhary22@gmail.com](mailto:mayureshchoudhary22@gmail.com)
 - 👨‍💻 All of my projects are available at [Repository Section](https://github.com/Mayuresh-22?tab=repositories)
-- 📄 Know about my experiences, [Resume here](https://drive.google.com/file/d/18F7jhyVNPdp-L1nYlzbtNcyjHH08eoq7/view?usp=sharing)
+- 📄 Know about my experiences, [Resume here](https://drive.google.com/file/d/1RpbNpvkhRBMoSLwu7ga25d-X80LEHHRE/view?usp=sharing)
 - ⚡ Fun fact **I am learning to make machines learn on their own 😅**
 
 <div>
