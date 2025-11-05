@@ -10,7 +10,7 @@
 - 💬 Ask me about **Python/JS/TS, backend, and ML**
 - 📫 How to reach me? email @ [mayureshchoudhary22@gmail.com](mailto:mayureshchoudhary22@gmail.com)
 - 👨‍💻 All of my projects are available at [Repository Section](https://github.com/Mayuresh-22?tab=repositories)
-- 📄 Know about my experiences, [Resume here](https://drive.google.com/file/d/1isXVpZNGZTzK-DxEnuDK7OjqvRZ7CI1_/view?usp=sharing)
+- 📄 Know about my experiences, [Resume here](https://drive.google.com/file/d/1idJ-21GuQcRy3d3PNEPB6bqX1lX1Nscs/view?usp=sharing)
 - ⚡ Fun fact **I am learning to make machines learn on their own 😅**
 
 <div>
