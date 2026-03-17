@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://askyourvideo.pro"><b>AskYourVideo</b></a> •
   <a href="https://github.com/Mayuresh-22?tab=repositories">Projects</a> •
-  <a href="https://drive.google.com/file/d/1y7-459jRtbWO7R9kRX4-zqnBFtiTHS31/view?usp=sharing">Resume</a> •
+  <a href="https://drive.google.com/file/d/1y7-459jRtbWO7R9kRX4-zqnBFtiTHS31/view?usp=sharing" target="_blank">Resume</a> •
   <a href="mailto:mayureshchoudhary22@gmail.com">Email</a>
 </p>
 
