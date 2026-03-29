@@ -50,31 +50,13 @@ I’m a **software engineer/AI engineer** with hands-on experience building **ba
 ---
 
 ## 🛠️ Tech Stack
-
-### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,php" />
-</p>
-
-### Backend / Databases
-<p>
   <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,postgres" />
-</p>
-
-### ML / Data
-<p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/>
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
-</p>
-
-### Frontend
-<p>
   <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-### Tools
-<p>
   <img src="https://skillicons.dev/icons?i=git,linux,figma" />
 </p>
 
@@ -84,19 +66,6 @@ I’m a **software engineer/AI engineer** with hands-on experience building **ba
 
 <p align="center">
   <img src="https://github-profile-trophy-kannan.vercel.app/?username=Mayuresh-22&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayuresh-22&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh-22&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayuresh-22&theme=tokyonight" />
 </p>
 
 ---
